@@ -36,11 +36,12 @@ This project demonstrates how **careful exploratory analysis, appropriate metric
 
 ### Final Test Performance (Threshold = 0.45)
 
-- **Recall:** 0.8261  
-- **Precision:** 0.1735  
-- **Accuracy:** 0.7549  
-- **ROC AUC:** 0.8559  
-- **PR AUC:** 0.2315  
+- **Recall:** 0.8478  
+- **Precision:** 0.1722  
+- **Accuracy:** 0.7477  
+- **ROC AUC:** 0.8573  
+- **PR AUC:** 0.2282  
+
 
 These results reflect a deliberate emphasis on fraud capture in a low-prevalence setting, with threshold tuning used to balance recall against investigation volume.
 

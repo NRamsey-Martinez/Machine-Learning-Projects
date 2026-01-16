@@ -1,7 +1,19 @@
 [project]
 name = "insurance-segmentation-prediction"
 version = "0.1.0"
-description = "Add your description here"
+description = "End-to-end insurance customer segmentation and fraud prediction using EDA, preprocessing, and XGBoost modeling."
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = ">=3.11"
+
+dependencies = [
+  "pandas",
+  "numpy",
+  "scipy",
+  "scikit-learn",
+  "matplotlib",
+  "seaborn",
+  "xgboost",
+  "joblib",
+  "jupyter",
+]
+
